@@ -1,0 +1,75 @@
+footer {
+  border-top: 1px solid #ddd;
+  background: url(../Component/Movie/background.jpg) no-repeat top center fixed;
+  background-position: center;
+  background-size: cover;
+  padding: 2rem 0 0;
+}
+.container{
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+ul,li {
+  list-style: none;
+}
+.box-section-part {
+  display: flex;
+  text-align: center;
+  width: 100%;
+  padding-top: 1%;
+}
+.box-section-part-left {
+  width: 25%;
+}
+.box-section-part-left h3 {
+  border-bottom: 2px solid rgb(164, 152, 47);
+  padding-bottom: 20px;
+  margin-bottom: 1rem;
+  margin-left: 2rem;
+  margin-right: 0.5rem;
+  color: #fff;
+}
+.box-section-part-left p {
+  font-size: 17px;
+  color: #fff;
+}
+.box-section-part-left button {
+  margin-top: 10%;
+  font-size: 15px;
+  border-radius: 5px;
+  background:#9acd32;
+  color: aliceblue;
+  padding: 0.75rem 0.75rem;
+}
+.box-section-part-left button:hover {
+  background-color: #fff;
+  color: #000;
+}
+.box-section-part-left-ul li {
+  padding-bottom: 1rem;
+}
+.box-section-part-left-ul li img {
+  margin-right: 1rem;
+}
+.box-section-part-left-ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.box-section-part-image-collage img {
+  width: 25%;
+  font-size: 20px;  
+}
+.box-section-part-left-ul li span {
+  margin-right: 7%;
+}
+.last-button-section-h3 {
+  padding: 1px 0;
+  color: #fff;
+  background: #232b38;
+  text-align: center;
+}
+.last-button-section-h3 a{
+  color: #9acd32;
+}
+

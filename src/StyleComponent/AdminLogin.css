@@ -1,0 +1,40 @@
+/* AdminLogin.css */
+
+/* Style the form container */
+.login-form{
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+    height: 300px;
+    max-width: 330px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+  
+  /* Style form inputs and button */
+  input[type="email"],
+  input[type="password"] {
+    width: 90%;
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  button[type="submit"] {
+    width: 100%;
+    padding: 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  

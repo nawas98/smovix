@@ -1,0 +1,23 @@
+.home-latest-movies{
+  background: url(../Component/Movie/background.jpg) no-repeat top center fixed;
+
+}
+.home-latest-movies h1 {
+  color: #9acd32;
+  
+}
+
+.list-cards {
+  display: flex;
+  flex-wrap: wrap ;
+  justify-content: center;
+  color: #f3e9e9;
+  padding-bottom: 1rem;
+}
+.pagination{
+  padding-bottom: 10px;
+}
+
+.list-cards a{
+  padding: 20px
+}

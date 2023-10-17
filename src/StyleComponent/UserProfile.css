@@ -1,0 +1,40 @@
+.container-main {
+    width: 1140px;
+}
+.container-main li,
+.container-main h2 {
+    color: #fff;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.userDeatilsMain {
+    margin: 100px;
+}
+.userDetails {
+    display: flex;
+}
+.userOtherdetails ul {
+    text-align: left;
+}
+.userOtherdetails ul li {
+    margin: 10px 0;
+}
+.userImage img {
+    width: 100px;
+    height: auto;
+}
+.userReviewdetailsmain {
+    margin-top: 50px;;
+}
+.userReviws h2,
+.userReviws ul {
+    text-align: left;
+}
+.userReviws li {
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}

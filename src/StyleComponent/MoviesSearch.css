@@ -1,0 +1,36 @@
+.movie-search-app{
+  margin: 100px;
+}
+.movie-search{
+  color: #9acd32;
+}
+ .suggestion-list {
+  list-style-type: none;
+  padding: 0;
+  margin: -10px auto;
+  width: 250px;
+  position: relative;
+  border: 0;
+  z-index: 1;
+  height: 300px;
+  overflow: auto;
+ 
+}
+
+.suggestion-list li {
+  padding: 10px;
+  border: 0 !important;
+  text-align: left;
+}
+
+.suggestion-list li:last-child {
+  border-bottom: none;
+}
+
+.suggestion-list a {
+  color: #fff;
+  text-decoration: none; 
+}
+.no-match{
+  color: #9acd32;
+}

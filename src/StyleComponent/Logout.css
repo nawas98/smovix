@@ -1,0 +1,12 @@
+.logout{
+    height: 280px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+    .logout p{
+    color: greenyellow;
+    font-size: larger;
+    }
+    .logout-button{
+    background-color: red;
+    }

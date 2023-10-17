@@ -1,0 +1,15 @@
+.about-us p, .about-us h2, .about-us h1 {
+    color: #fff;
+    background: url(../Component/Movie/background.jpg) no-repeat top center fixed;
+    padding-top: 1px;
+    
+}
+.about-us
+{
+    border: 5px solid #ddd;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+
+}

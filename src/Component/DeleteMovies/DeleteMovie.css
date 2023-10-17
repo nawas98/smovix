@@ -1,0 +1,35 @@
+.table-box{
+    width: 60%;
+    height: auto;
+    margin:40px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.table-box table {
+    width: 100%;
+    background-color: rgb(42, 43, 42);
+    color: white;
+}
+.table-box .tablehead th{
+    border: solid white 1px;
+    background-color:rgb(96, 138, 13);
+    padding: 12px;
+
+}
+.table-box .tablebody td{
+    border: solid white 2px;
+    padding: 7px;
+
+}
+.table-box .tablebody button{
+   width: 75px;
+   padding: 2px;
+}
+.table-box .tablebody button:hover{
+    background-color:rgb(90, 144, 19);
+    color: white;
+    border: solid white 2px;
+ }

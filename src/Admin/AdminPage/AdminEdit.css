@@ -1,0 +1,43 @@
+/* AdminEdit.css */
+
+.admin-menu {
+  color: #fff; /* Text color for the admin menu */
+  padding-top: 70px;
+  display: inline-block;
+  height: 260px;
+}
+
+.admin-menu-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+.admin-menu-list a {
+  text-decoration: none;
+  color: #fff;
+ 
+}
+
+.admin-menu-list button {
+  color: #fff; /* Text color for the menu buttons */
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.admin-menu-list button:hover {
+  background-color: #777; /* Background color for the menu buttons on hover */
+}
+
+.admin-menu-list-delete {
+  background-color: #f00; /* Background color for the logout button */
+}
+
+.admin-menu-list-logout {
+  background-color: #f00; /* Background color for the logout button */
+}
+
+.admin-menu-list-logout:hover {
+  background-color: #c00; /* Background color for the logout button on hover */
+}

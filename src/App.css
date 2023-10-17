@@ -1,0 +1,89 @@
+@import "react-loading-skeleton/dist/skeleton.css";
+.App {
+  text-align: center;
+  background: url(../public//background.jpg) no-repeat top center fixed;
+  background-size: cover;
+  padding-top: 1px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+/* Css for Pagination */
+/* Pagination Container */
+.pagination {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+/* Pagination Item */
+.pagination li {
+  margin: 0 5px;
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  background-color: #f4f4f4;
+  color: #333;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.pagination li.active {
+  background-color:#9acd32;
+  color: #fff;
+}
+
+/* Pagination Item Hover */
+.pagination li:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+/* Pagination Previous and Next Buttons (Optional) */
+.pagination li.prev,
+.pagination li.next {
+  background-color: #007bff;
+  color: #fff;
+}
+
+/* Disable Previous and Next Buttons on First and Last Page (Optional) */
+.pagination li.prev.disabled,
+.pagination li.next.disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
