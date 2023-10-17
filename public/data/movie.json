@@ -1,0 +1,1057 @@
+{
+  "moviesList": [
+    {
+      "id": 1,
+      "category": "bollywood",
+      "title": "Kabhi Khushi Kabhie Gham",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGNiOTY0NGMtNmY4NS00YjBlLTgwMTYtMzVlZjA3ZGEwNzNjXkEyXkFqcGdeQXVyMTMzMzUzMDM2._V1_.jpg",
+      "description": "A story about a family's relationships and conflicts.",
+      "rating": 4.5,
+      "popular": "",
+      "popularity": "popular-movies",
+      "favourite": "yes",
+      "vote_count": 100,
+      "release_date": 2001,
+      "watchTrailer": "https://www.youtube.com/watch?v=7uY1JbWZKPA"
+    },
+    {
+      "id": 2,
+      "category": "bollywood",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imageUrl": "https://i.pinimg.com/1200x/13/30/55/13305543bf075a4a9ba5d322e2ac6468.jpg",
+      "description": "A love story that transcends borders.",
+      "rating": 4.7,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 1995,
+      "watchTrailer": "https://www.youtube.com/watch?v=oIZ4U21DRlM"
+    },
+    {
+      "id": 3,
+      "category": "bollywood",
+      "title": "Sholay",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imageUrl": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRGuROe_0kSCaXK12Qm-aCXNSY5SwBB3r4HVslfwukaG9TV2FqKX_C1fMLcNhVUK_KU",
+      "description": "A classic tale of friendship and revenge.",
+      "rating": 4.8,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 1975,
+      "watchTrailer": "https://www.youtube.com/watch?v=zzTUvWfvlBg"
+    },
+    {
+      "id": 4,
+      "category": "bollywood",
+      "title": "3 Idiots",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSaAgEKGAhM-PkFO0PbwPvuttF3X7d0BlqMHAm5tTKQtPqIheT",
+      "description": "A humorous look at the education system.",
+      "rating": 4.6,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2009,
+      "watchTrailer": "https://www.youtube.com/watch?v=K0eDlFX9GMc"
+    },
+    {
+      "id": 5,
+      "category": "bollywood",
+      "title": "PK",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSSaD2bSPOgmgsn4-09dF2l8mHbuvHhJxbkL7rvD1uEpAxKnLX",
+      "description": "An alien's perspective on humanity.",
+      "rating": 4.4,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2014,
+      "watchTrailer": "https://www.youtube.com/watch?v=SOXWc32k4zA&t=2s"
+    },
+    {
+      "id": 6,
+      "category": "bollywood",
+      "title": "Lagaan",
+      "genres": [
+        "Drama",
+        "Musical",
+        "Sport"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiWdN181yXmxfE_D15V044jhgr07gE_aikvbI97qBc6XkSKLUo",
+      "description": "A cricket match that changes a village's fate.",
+      "rating": 4.7,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2001,
+      "watchTrailer": "https://www.youtube.com/watch?v=rZPbpymefuE"
+    },
+    {
+      "id": 7,
+      "category": "bollywood",
+      "title": "Kuch Kuch Hota Hai",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTnj4sN-Z7wjceRoMS5kwfrh8ki7IrQca_d4guFiP0gMq-t7QC",
+      "description": "A tale of love and friendship.",
+      "rating": 4.4,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 1998,
+      "watchTrailer": "https://www.youtube.com/watch?v=OtGzATlvw_0"
+    },
+    {
+      "id": 8,
+      "category": "bollywood",
+      "title": "My Name Is Khan",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSL-0yDeKvZYKpWXC-zlrq1pa9ATqbtNK1DbNcnb6eq4nlZzBQ_",
+      "description": "An unconventional love story amidst challenges.",
+      "rating": 4.3,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2010,
+      "watchTrailer": "https://www.youtube.com/watch?v=nqxgYT3TYzY"
+    },
+    {
+      "id": 9,
+      "category": "bollywood",
+      "title": "Chak De! India",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVThLK1u_yM3JdDxD1WIQt2_959Gt5gZ__wGY7Z7CmJd6VHkL_",
+      "description": "A coach's journey to redemption through hockey.",
+      "rating": 4.5,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2012,
+      "watchTrailer": "https://www.youtube.com/watch?v=6a0-dSMWm5g"
+    },
+    {
+      "id": 10,
+      "category": "bollywood",
+      "title": "Mohabbatein",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjxHUYADUVbIqzbKyyzl4_h34A_w3rBZI__I93C3nlDjJa52YL",
+      "description": "An epic romance that stands the test of time.",
+      "rating": 4.8,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2000,
+      "watchTrailer": "https://www.youtube.com/watch?v=6pbG4aVrs5E"
+    },
+    {
+      "id": 11,
+      "category": "bollywood",
+      "title": "Baahubali: The Beginning",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTANLW6o_XKmdd3zyIgBRb0OyEeqwB54QWJ7ZgJteucuSIZSEZE",
+      "description": "An epic tale of bravery and betrayal.",
+      "rating": 4.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2015,
+      "watchTrailer": "https://www.youtube.com/watch?v=sOEg_YZQsTI"
+    },
+    {
+      "id": 12,
+      "category": "bollywood",
+      "title": "Bajrangi Bhaijaan",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqyS3fXzIKWbqk_VFlX9N88X7cZi4O4fw1mXdEj587eOlo1GF-",
+      "description": "A heartwarming journey of a man and a mute girl.",
+      "rating": 4.3,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2015,
+      "watchTrailer": "https://www.youtube.com/watch?v=4nwAra0mz_Q"
+    },
+    {
+      "id": 13,
+      "category": "bollywood",
+      "title": "Padmaavat",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imageUrl": "https://contentserver.com.au/assets/603892_v7_padvaati.jpg",
+      "description": "A tale of love, war, and honor.",
+      "rating": 4.1,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2017,
+      "watchTrailer": "https://www.youtube.com/watch?v=X_5_BLt76c0"
+    },
+    {
+      "id": 14,
+      "category": "bollywood",
+      "title": "Baahubali: The Conclusion",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqUxfzVF-XFGltP_5vIp6K6dCJv3cPz5SJ7wK9vhtcpSKvmXCr",
+      "description": "The epic saga continues with even grander battles.",
+      "rating": 4.7,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2017,
+      "watchTrailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do"
+    },
+    {
+      "id": 15,
+      "category": "bollywood",
+      "title": "Bhoot Police",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Horror"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr-WFKO2U58lnyZn1rUJq_jRdIx8BttHmCnMCT4gztB_6sCjro",
+      "description": "An alien's perspective on humanity.",
+      "rating": 4.4,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2021,
+      "watchTrailer": "https://www.youtube.com/watch?v=-j7mGq3s3eA"
+    },
+    {
+      "id": 16,
+      "category": "bollywood",
+      "title": "Golmaal: Fun Unlimited",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqFSHMkMGD6EI5nhAlxQD-cDZMDNg0gpFyo4sdaVE6YxArYt8E",
+      "description": "A comedy of errors and mistaken identities.",
+      "rating": 4,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2006,
+      "watchTrailer": "https://www.youtube.com/watch?v=3fO1f9TndAM"
+    },
+    {
+      "id": 17,
+      "category": "bollywood",
+      "title": "Dangal",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-eAZoxBzm-lW88kcC50log_jC7sBxwbsrx8Tvy3vRVLy-IF5r",
+      "description": "A father's dream to make his daughters wrestling champions.",
+      "rating": 4.5,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2016,
+      "watchTrailer": "https://www.youtube.com/watch?v=x_7YlGv9u1g"
+    },
+    {
+      "id": 18,
+      "category": "bollywood",
+      "title": "Rang De Basanti",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST5c7MHZYvb1kbcNPmMUlryVUew-pzc8E1QyPvqTlP1ik2IadY",
+      "description": "A group of students' awakening to social issues.",
+      "rating": 4.4,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2006,
+      "watchTrailer": "https://www.youtube.com/watch?v=QHhnhqxB4E8"
+    },
+    {
+      "id": 19,
+      "category": "bollywood",
+      "title": "Sultan",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1cK4t_uWmqHaRYD9uq69hLEWy7f7NpIfjPlQECdooplpkQcEp",
+      "description": "A wrestler's journey to redemption and love.",
+      "rating": 4.2,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2016,
+      "watchTrailer": "https://www.youtube.com/watch?v=wPxqcq6Byq0"
+    },
+    {
+      "id": 20,
+      "category": "bollywood",
+      "title": "Dil Chahta Hai",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVeHuLz8KOUIL8BTHhELRNUVk3VCM5hImAH0O8H_4UOZR3yc8",
+      "description": "A story of friendship and love among three friends.",
+      "rating": 4.5,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2001,
+      "watchTrailer": "https://www.youtube.com/watch?v=m13b25V0B10"
+    },
+    {
+      "id": 21,
+      "category": "hollywood",
+      "title": "Inception",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://flxt.tmsimg.com/assets/p7825626_p_v8_af.jpg",
+      "description": "A thief who enters the dreams of others to steal their secrets.",
+      "rating": 8.8,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2010,
+      "watchTrailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    },
+    {
+      "id": 22,
+      "category": "hollywood",
+      "title": "The Dark Knight",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imageUrl": "https://contentserver.com.au/assets/598411_p173378_p_v8_au.jpg",
+      "description": "The Joker wreaks havoc on Gotham City, and Batman must stop him.",
+      "rating": 9,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2008,
+      "watchTrailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    },
+    {
+      "id": 23,
+      "category": "hollywood",
+      "title": "Interstellar",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf61mker2o4KH3CbVE7Zw5B1-VogMH8LfZHEaq3UdCMLxARZAB",
+      "description": "A group of explorers travels through a wormhole in search of a new home for humanity.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2015,
+      "watchTrailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+      "id": 24,
+      "category": "hollywood",
+      "title": "The Shawshank Redemption",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+      "description": "A man is wrongly convicted of murder and forms a deep bond with his fellow inmates.",
+      "rating": 9.3,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 1994,
+      "watchTrailer": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+    },
+    {
+      "id": 25,
+      "category": "hollywood",
+      "title": "Gladiator",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "description": "A Roman general seeks revenge after being betrayed and forced into slavery.",
+      "rating": 8.5,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2000,
+      "watchTrailer": "https://www.youtube.com/watch?v=owK1qxDselE"
+    },
+    {
+      "id": 26,
+      "category": "hollywood",
+      "title": "The Avengers (2012)",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSK0mRgxk6RD6AXbkAzpQRs7FCh9J0FiOxC9eIHCqoxAgpBeywiPrFjbAcGKbCaVYkc",
+      "description": "Various interconnected stories in the criminal underworld.",
+      "rating": 8.9,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2012,
+      "watchTrailer": "https://www.youtube.com/watch?v=eOrNdBpGMv8"
+    },
+    {
+      "id": 27,
+      "category": "hollywood",
+      "title": "Avatar",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63bb1581b82b5d6f35c4756b/Official-IMAX-poster-for--Avatar--The-Way-of-Water-/960x0.jpg?height=889&width=711&fit=bounds",
+      "description": "A paraplegic marine becomes involved in a conflict on an alien planet.",
+      "rating": 7.8,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2022,
+      "watchTrailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+    },
+    {
+      "id": 28,
+      "category": "hollywood",
+      "title": "Aquaman and the Lost Kingdom",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imageUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/07/aquaman-and-the-lost-kingdom-film-poster.jpg",
+      "description": "The life story of a man with low intelligence who inadvertently influences historic events.",
+      "rating": 8.8,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2023,
+      "watchTrailer": "https://www.youtube.com/watch?v=FV3bqvOHRQo"
+    },
+    {
+      "id": 29,
+      "category": "hollywood",
+      "title": "Jurassic Park",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+      "description": "A theme park with cloned dinosaurs faces a catastrophic failure.",
+      "rating": 8.1,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2022,
+      "watchTrailer": "https://www.youtube.com/watch?v=lc0UehYemQA"
+    },
+    {
+      "id": 30,
+      "category": "hollywood",
+      "title": "The Lord of the Rings",
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9J7XACn3tlD6v4UXRMvT2wJN8FGCCPeh8U3RkZ6__tR4wGhSo",
+      "description": "A young hobbit sets out on a journey to destroy a powerful ring.",
+      "rating": 8.8,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2001,
+      "watchTrailer": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+    },
+    {
+      "id": 31,
+      "category": "hollywood",
+      "title": "The Matrix",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/06d86913c84a8e3c32f08eaabc56d8fded1c58943f1b4150c9fd0a9d4cea7a70.jpg",
+      "description": "A computer hacker discovers a dystopian world controlled by machines.",
+      "rating": 8.7,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2021,
+      "watchTrailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+    },
+    {
+      "id": 32,
+      "category": "hollywood",
+      "title": "Avengers: Age of Ultron",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+      "description": "The story of a powerful Italian-American mafia family.",
+      "rating": 9.2,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2015,
+      "watchTrailer": "https://www.youtube.com/watch?v=tmeOjFno6Do"
+    },
+    {
+      "id": 33,
+      "category": "hollywood",
+      "title": "Titanic",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imageUrl": "https://cdn.hmv.com/r/w-640/hmv/files/0f/0f568c46-2a89-49cb-9f24-cfc4d850bfb6.jpg",
+      "description": "A love story set aboard the ill-fated RMS Titanic.",
+      "rating": 7.8,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 1997,
+      "watchTrailer": "https://www.youtube.com/watch?v=I7c1etV7D7g"
+    },
+    {
+      "id": 34,
+      "category": "hollywood",
+      "title": "Avengers: Infinity War",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+      "description": "Superheroes unite to save the world from a powerful threat.",
+      "rating": 8,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2018,
+      "watchTrailer": "https://www.youtube.com/watch?v=QwievZ1Tx-8"
+    },
+    {
+      "id": 35,
+      "category": "hollywood",
+      "title": "Mad Max: Fury Road",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imageUrl": "https://flxt.tmsimg.com/assets/p10854488_p_v8_ao.jpg",
+      "description": "In a post-apocalyptic wasteland, a woman fights to survive.",
+      "rating": 8.1,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2013,
+      "watchTrailer": "https://www.youtube.com/watch?v=hEJnMQG9ev8"
+    },
+    {
+      "id": 36,
+      "category": "hollywood",
+      "title": "Avengers: Endgame",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+      "description": "The life story of a man with low intelligence who inadvertently influences historic events.",
+      "rating": 8.8,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2019,
+      "watchTrailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+    },
+    {
+      "id": 37,
+      "category": "hollywood",
+      "title": "Captain marvel",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg",
+      "description": "A Roman general seeks revenge after being betrayed and forced into slavery.",
+      "rating": 8.5,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2019,
+      "watchTrailer": "https://www.youtube.com/watch?v=Z1BCujX3pw8",
+      "watchMovie": "",
+      "review": ""
+    },
+    {
+      "id": 38,
+      "category": "hollywood",
+      "title": "Thor: the dark world",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/4511/674511-v",
+      "description": "A thief who enters the dreams of others to steal their secrets.",
+      "rating": 8.8,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2013,
+      "watchTrailer": "https://www.youtube.com/watch?v=npvJ9FTgZbM"
+    },
+    {
+      "id": 39,
+      "category": "hollywood",
+      "title": "Thor: Ragnarok",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg",
+      "description": "The Joker wreaks havoc on Gotham City, and Batman must stop him.",
+      "rating": 9,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2017,
+      "watchTrailer": "https://www.youtube.com/watch?v=v7MGUNV8MxU"
+    },
+    {
+      "id": 40,
+      "category": "hollywood",
+      "title": "Thor: Love and Thunder",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "description": "A group of explorers travels through a wormhole in search of a new home for humanity.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2022,
+      "watchTrailer": "https://www.youtube.com/watch?v=Go8nTmfrQd8"
+    },
+    {
+      "id": 41,
+      "category": "bollywood",
+      "title": "M.S. Dhoni: The Untold Story",
+      "genres": [
+        "Drama",
+        "Sports"
+      ],
+      "imageUrl": "https://i.pinimg.com/originals/c7/eb/e0/c7ebe0c4a9155ea324cfd5773e06ccbd.jpg",
+      "description": "The untold story of Mahendra Singh Dhoni's journey from ticket collector to trophy collector - the world-cup-winning captain of the Indian Cricket Team.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2016,
+      "watchTrailer": "https://www.youtube.com/watch?v=Go8nTmfrQd8"
+    },
+    {
+      "id": 42,
+      "category": "hollywood",
+      "title": "The Dark Knight Rises ",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/original/lEeOaKZf16R1cZCuryP859SKgE7.jpg",
+      "description": "A group of explorers travels through a wormhole in search of a new home for humanity.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2012,
+      "watchTrailer": "https://www.youtube.com/watch?v=g8evyE9TuYk"
+    },
+    {
+      "id": 43,
+      "category": "hollywood",
+      "title": "Good Will Hunting ",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "description": "A group of explorers travels through a wormhole in search of a new home for humanity.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 1997,
+      "watchTrailer": "https://www.youtube.com/watch?v=ReIJ1lbL-Q8"
+    },
+    {
+      "id": 44,
+      "category": "hollywood",
+      "title": "A Beautiful Mind ",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imageUrl": "https://i0.wp.com/the-art-of-autism.com/wp-content/uploads/2020/06/A-Beautiful-Mind.jpg?fit=683%2C1024&ssl=1",
+      "description": "A group of explorers travels through a wormhole in search of a new home for humanity.",
+      "rating": 8.6,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 1997,
+      "watchTrailer": "https://www.youtube.com/watch?v=9wZM7CQY130"
+    },
+    {
+      "id": 45,
+      "category": "hollywood",
+      "title": "The Da Vinci Code",
+      "genres": [
+        "Mystery, Thriller"
+      ],
+      "imageUrl": "https://media.npr.org/assets/bakertaylor/covers/t/the-da-vinci-code/9781400079179_custom-525b37f20c8aa210cbae5816f5a26ffda5709869-s6-c30.jpg",
+      "description": "A murder inside the Louvre, and clues in Da Vinci paintings, lead to the discovery of a religious mystery protected by a secret society for two thousand years, which could shake the foundations of Christianity.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2006,
+      "watchTrailer": "https://www.youtube.com/watch?v=5sU9MT8829k"
+    },
+    {
+      "id": 46,
+      "category": "hollywood",
+      "title": "Angels & Demons ",
+      "genres": [
+        "Mystery, Thriller"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/original/yKBRjdlG1oJ7ppR8AlU3bCyYddq.jpg",
+      "description": "Harvard symbologist Robert Langdon works with a nuclear physicist to solve a murder and prevent a terrorist act against the Vatican during one of the significant events within the church.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2009,
+      "watchTrailer": "https://www.youtube.com/watch?v=GPaAwbveFLg"
+    },
+    {
+      "id": 47,
+      "category": "hollywood",
+      "title": "National Treasurer",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "imageUrl": "https://4.bp.blogspot.com/-LG4cvgLDNsM/UEPaWXUvB8I/AAAAAAAAy6o/LeyGOKYT8WQ/s1600/national%2Btreasure%2Bmovie%2Bposter.jpg",
+      "description": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2004,
+      "watchTrailer": "https://www.youtube.com/watch?v=vqUPxNT8io4"
+    },
+    {
+      "id": 48,
+      "category": "hollywood",
+      "title": "12 Angry Men",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imageUrl": "https://amc-theatres-res.cloudinary.com/v1579118427/amc-cdn/production/2/movies/11400/11393/Poster/p_800x1200_AMC_12AngryMen1957_10082019.jpg",
+      "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "rating": 8.6,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 1957,
+      "watchTrailer": "https://www.youtube.com/watch?v=TEN-2uTi2c0"
+    },
+    {
+      "id": 49,
+      "category": "hollywood",
+      "title": " The Aviator",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/original/5Frf3fwexQ4XTgffUkdrWV7AoMd.jpg",
+      "description": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid 1940s.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2004,
+      "watchTrailer": "https://www.youtube.com/watch?v=FebPJlmgldE"
+    },
+    {
+      "id": 50,
+      "category": "hollywood",
+      "title": " WALL·E ",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imageUrl": "https://vignette1.wikia.nocookie.net/disney/images/f/f2/Walleposter.jpg/revision/latest?cb=20150214194124",
+      "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2008,
+      "watchTrailer": "https://www.youtube.com/watch?v=CZ1CATNbXg0"
+    },
+    {
+      "id": 51,
+      "category": "hollywood",
+      "title": "Memento ",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/hWFIYfV8U0bsNnxm6smMAXDnOBy.jpg",
+      "description": "A group of explorers travels through a wormhole in search of a new home for humanity.",
+      "rating": 8.6,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2000,
+      "watchTrailer": "https://www.youtube.com/watch?v=HDWylEQSwFo"
+    },
+    {
+      "id": 52,
+      "category": "bollywood",
+      "title": "Rocketry: The Nambi Effect",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjNjNWUxMjUtMTBkMC00NTNlLTg0NTctZmJmMDYzMTMwMWQwXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg",
+      "description": "Based on the life of Indian Space Research Organization scientist Nambi Narayanan, who was framed for being a spy and arrested in 1994. Though free, he continues to fight for justice against the officials who falsely implicated him.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2022,
+      "watchTrailer": "https://www.youtube.com/watch?v=yEinBUJG2RI"
+    },
+    {
+      "id": 53,
+      "category": "bollywood",
+      "title": "777 Charlier",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDljMWQxZjQtODllNi00MzljLTg3ZGUtNDU4Zjk2NTAzMWQ2XkEyXkFqcGdeQXVyNDY3NTMzOTM@._V1_UY1200_CR69,0,630,1200_AL_.jpg",
+      "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie enters his life and gives him a new perspective towards it..",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2022,
+      "watchTrailer": "https://www.youtube.com/watch?v=Z3r7f9zw-mo"
+    },
+    {
+      "id": 54,
+      "category": "bollywood",
+      "title": "Dangal",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+      "description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2016,
+      "watchTrailer": "https://www.youtube.com/watch?v=x_7YlGv9u1g"
+    },
+    {
+      "id": 55,
+      "category": "bollywood",
+      "title": "Jersey",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imageUrl": "https://moviegalleri.net/wp-content/gallery/jersey-movie-release-today-posters/jersey-movie-release-posters-nani-shraddha-srinath-ronit-kamra-1e09491.jpg",
+      "description": "A group of explorers travels through a wormhole in search of a new home for humanity.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2019,
+      "watchTrailer": "https://www.youtube.com/watch?v=AjAe_Q1WZ_8"
+    },
+    {
+      "id": 56,
+      "category": "bollywood",
+      "title": "Sarfarosh",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imageUrl": "https://i2.cinestaan.com/image-bank/1500-1500/29001-30000/29302.jpg",
+      "description": "After his brother is killed and father severely injured by terrorists, a young med student quits his studies to join the Indian Police Service to wipe out the terrorists.",
+      "rating": 8.6,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 1999,
+      "watchTrailer": "https://www.youtube.com/watch?v=QlULorEPMig"
+    },
+    {
+      "id": 57,
+      "category": "bollywood",
+      "title": "The Legend of Bhagat Singh",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/original/z5FBA9RJTeg1PFk8vif5CrzhxL7.jpg",
+      "description": "The story of a young revolutionary who raised an armed resistance against the British rule in India.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2002,
+      "watchTrailer": "https://www.youtube.com/watch?v=FFQ6YWOsOUA"
+    },
+    {
+      "id": 58,
+      "category": "bollywood",
+      "title": "Shershaah",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imageUrl": "https://static.moviecrow.com/gallery/20200117/174460-Shershaah.jpg",
+      "description": "Shershaah is the story of PVC awardee Indian soldier Capt. Vikram Batra, whose bravery and unflinching courage in chasing the Pakistani soldiers out of Indian territory contributed immensely in India finally winning the Kargil War in 1999..",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2021,
+      "watchTrailer": "https://www.youtube.com/watch?v=Q0FTXnefVBA"
+    },
+    {
+      "id": 59,
+      "category": "bollywood",
+      "title": "K.G.F",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imageUrl": "https://www.sohaibxtreme.net/wp-content/uploads/2020/07/811Go7JhVHL._RI_.jpg",
+      "description": "In the 1970s, a gangster named Rocky goes undercover as a slave to assassinate the owner of a notorious gold mine known as the K.G.F.",
+      "rating": 8.6,
+      "popular": "",
+      "vote_count": 100,
+      "release_date": 2018,
+      "watchTrailer": "https://www.youtube.com/watch?v=-KfsY-qwBS0"
+    },
+    {
+      "id": 60,
+      "category": "bollywood",
+      "title": "K.G.F: Chapter 2",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imageUrl": "https://wallpapercave.com/wp/wp5204046.jpg",
+      "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes. While his allies look up to him, the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+      "rating": 8.6,
+      "popular": "",
+      "popularity": "popular-movies",
+      "vote_count": 100,
+      "release_date": 2022,
+      "watchTrailer": "https://www.youtube.com/watch?v=Go8nTmfrQd8"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "username": "Nawas1",
+      "email": "nawas1@gmail.com",
+      "password": "Milan1@"
+    },
+    {
+      "id": 2,
+      "username": "Nawas2",
+      "email": "nawas2@gmail.com",
+      "password": "Milan2@"
+    },
+    {
+      "username": "Nawas3",
+      "email": "nawas3@gmail.com",
+      "password": "Milan3@"
+    }
+  ],
+  "movie_reviews": [
+    {
+      "user_email": "subham1@gmail.com",
+      "movie_id": "39",
+      "movie_name": "Thor: Ragnarok",
+      "review_text": "It was popularized in the 1960s with the release of the Latest sheets containing Lorem Ipsum passage.",
+      "rating": 4.5,
+      "id": 1
+    },
+    {
+      "user_email": "nawas12@gmail.com",
+      "movie_id": "39",
+      "movie_name": "Thor: Ragnarok",
+      "review_text": "Latest sheets containing Lorem Ipsum passage.",
+      "rating": 4.5,
+      "id": 2
+    }
+  ]
+}

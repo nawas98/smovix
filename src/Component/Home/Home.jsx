@@ -24,7 +24,7 @@ function Home() {
             });
     }, []);
     
-
+	
     //Used for skeleton
     useEffect(() => {
         setTimeout(() => {
